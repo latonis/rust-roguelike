@@ -1,0 +1,9 @@
+[package]
+name = "roguelk"
+version = "0.1.0"
+edition = "2021"
+authors = ["Jacob Latonis"]
+
+[dependencies]
+rltk = {version = "0.8.7"}
+
